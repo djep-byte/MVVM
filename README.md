@@ -514,11 +514,15 @@ untuk menjalankan program pastikan MySQL di XAMPP masih pada posisi start, kemud
 dotnet run
 ```
 ## Dokumentasi
+
 ### Hasil Run
 <img width="734" height="476" alt="image" src="https://github.com/user-attachments/assets/78619933-110b-437a-9c34-929aa445a3bb" />
+
 ### Menambahkan Data Mahasiswa
 <img width="1277" height="503" alt="image" src="https://github.com/user-attachments/assets/499da6a8-cbb7-47b4-a70d-3679f592fc82" />
+
 ### Mencari Data
 <img width="973" height="65" alt="image" src="https://github.com/user-attachments/assets/9dcae38c-b561-4ced-bf3e-6d2f3739d90f" />
+
 ### Mengubah dan Menghapus Data
 <img width="1253" height="422" alt="image" src="https://github.com/user-attachments/assets/6faf298d-870b-4eef-aedc-99b5f9ca651c" />
